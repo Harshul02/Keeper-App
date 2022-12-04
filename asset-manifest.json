@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/To-Do-List-Web-App/static/js/main.60e558d4.js",
-    "index.html": "/To-Do-List-Web-App/index.html",
-    "main.60e558d4.js.map": "/To-Do-List-Web-App/static/js/main.60e558d4.js.map"
+    "main.js": "/Keeper-App/static/js/main.60e558d4.js",
+    "index.html": "/Keeper-App/index.html",
+    "main.60e558d4.js.map": "/Keeper-App/static/js/main.60e558d4.js.map"
   },
   "entrypoints": [
     "static/js/main.60e558d4.js"
